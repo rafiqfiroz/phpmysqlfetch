@@ -41,9 +41,9 @@ CREATE TABLE IF NOT EXISTS `data` (
 --
 
 INSERT INTO `data` (`id`, `name`, `email`, `contactno`, `gender`, `education`, `address`) VALUES
-(1, 'Anuj kumar', 'info@phpgurukul.com', 2147483647, 'Male', 'Graduate', 'H no- 18/1 Bihari puram phase-1 melrose bye pass'),
-(2, 'Rahul', 'rahul@ttest.com', 8285703354, 'Male', 'Graduate', 'Test'),
-(3, 'Rahul', 'rahul@ttest.com', 8285703354, 'Male', 'Graduate', 'Test');
+(1, 'Rafiq Ahmed', 'rafiqamed.com@gmail.com', 0167025880, 'Male', 'Graduate', '18/b/2,Rankin Street Wari Dhaka'),
+(2, 'Rafiq', 'rafiq@ttest.com', 013703354, 'Male', 'Graduate', 'Test'),
+(3, 'Rahul', 'rafiqahmed089@gmail.com', 0172703354, 'Male', 'Graduate', 'Test');
 
 --
 -- Indexes for dumped tables
